@@ -9,6 +9,8 @@ int main(){
  cin >> str;
 int size = str.size();
 
+
+
 int count =1;
 for(int i =0; i<size;i++){
     for (int j = i+1 ; j <size;j++){
